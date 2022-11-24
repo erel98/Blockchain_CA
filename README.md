@@ -1,3 +1,9 @@
+## Clone the repository ##
+```git clone https://github.com/erel98/Blockchain_CA.git```
+
+## Include .env file ##
+Move the dotenv file inside directory and rename it to .env
+
 ## Pull the Image ##
 
 ```docker pull erelozturk/nci-blockchain-ca```

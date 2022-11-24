@@ -11,7 +11,7 @@ Move the dotenv file inside directory and rename it to .env
 
 ## Run the image that you just pulled ##
 
-```docker run --name ncilab02 -p 8090:8080 nci02```
+```docker run --name blockchain_server -p 8090:8080 erelozturk/nci-blockchain-ca```
 
 ## Run the curl commands ##
 
